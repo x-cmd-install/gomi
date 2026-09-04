@@ -1,11 +1,13 @@
 about:
-  description: 🗑️ Your UNIX rm command with a safety net!
+  description:
+  |
+    🗑️ Your UNIX rm command with a safety net!
   license: MIT
   homepage: https://gomi.dev
   head: 08cdfa5
   archived: false
   latestVersion: v1.6.4
-  collectedAt: 2026-09-04T04:23:37Z
+  collectedAt: 2026-09-04T19:32:44Z
 timeline:
   created: 2015-05-01
   lastCommit: 2026-06-07
@@ -16,16 +18,24 @@ popularity:
   fork: 17
   release: 34
   contributor: 9
-  pullRequest: 5
+  pullRequest: 88
   issue: 43
 language:
   Go: 348191
   Shell: 3351
   Makefile: 672
-totalLine: 352214
+totalBytes: 352214
 recent:
   last30d:
     since: 2026-08-05
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last60d:
+    since: 2026-07-06
     release: 0
     mergedPR: 0
     openPR: 0
@@ -56,3 +66,21 @@ recent:
     closedIssue: 5
     openIssue: 2
     commit: 53
+  last720d:
+    since: 2024-09-14
+    release: 19
+    mergedPR: 71
+    openPR: 0
+    closedIssue: 19
+    openIssue: 2
+    commit: 399
+total:
+  release: 34
+  mergedPR: 83
+  openPR: 0
+  closedIssue: 41
+  openIssue: 2
+  commit: 535
+---
+---
+
