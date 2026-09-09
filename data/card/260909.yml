@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.6.4"
   latestRelease: "v1.6.4"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T04:35:00Z
+  collectedAt: 2026-09-09T18:41:57Z
 timeline:
   created: 2015-05-01
   lastCommit: 2026-06-07
@@ -85,7 +85,7 @@ total:
   commit: 535
 ---
 path: /home/runner/.x-repo/github.com/babarot/gomi
-collectedAt: 2026-09-09T04:35:02Z
+collectedAt: 2026-09-09T18:41:58Z
 loc:
   Go:
     code: 11205
