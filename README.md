@@ -12,6 +12,18 @@
 x install gomi
 ```
 
+## Code insight
+
+Total: **12,112** lines of code across **93** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Go | 11,205 | 1,051 | 1,940 | 88 |
+| Css | 578 | 56 | 107 | 1 |
+| Html | 197 | 11 | 19 | 2 |
+| Bash | 108 | 3 | 21 | 1 |
+| Makefile | 21 | 0 | 10 | 1 |
+
 ## Source
 
 - **Upstream**: <https://github.com/babarot/gomi>
@@ -23,19 +35,6 @@ x install gomi
 - **Latest**: `v1.6.4` (2026-06-07)
 - **Last commit**: 2026-06-07
 - **Assets in release**: 8
-
-## Release assets
-
-| Asset | Size | Target |
-|-------|-----:|--------|
-| [gomi_1.6.4_checksums.txt](https://github.com/babarot/gomi/releases/download/v1.6.4/gomi_1.6.4_checksums.txt) | 633 B | `other` |
-| [gomi_Darwin_arm64.tar.gz](https://github.com/babarot/gomi/releases/download/v1.6.4/gomi_Darwin_arm64.tar.gz) | 4.9 MiB | `native/darwin/arm64` |
-| [gomi_Darwin_x86_64.tar.gz](https://github.com/babarot/gomi/releases/download/v1.6.4/gomi_Darwin_x86_64.tar.gz) | 5.2 MiB | `native/darwin/x64` |
-| [gomi_Linux_arm64.tar.gz](https://github.com/babarot/gomi/releases/download/v1.6.4/gomi_Linux_arm64.tar.gz) | 4.7 MiB | `native/linux/arm64` |
-| [gomi_Linux_armv6.tar.gz](https://github.com/babarot/gomi/releases/download/v1.6.4/gomi_Linux_armv6.tar.gz) | 4.9 MiB | `native/linux/arm` |
-| [gomi_Linux_x86_64.tar.gz](https://github.com/babarot/gomi/releases/download/v1.6.4/gomi_Linux_x86_64.tar.gz) | 5.1 MiB | `native/linux/x64` |
-| [gomi_Windows_arm64.zip](https://github.com/babarot/gomi/releases/download/v1.6.4/gomi_Windows_arm64.zip) | 4.8 MiB | `native/win/arm64` |
-| [gomi_Windows_x86_64.zip](https://github.com/babarot/gomi/releases/download/v1.6.4/gomi_Windows_x86_64.zip) | 5.3 MiB | `native/win/x64` |
 
 ## Popularity
 
@@ -50,20 +49,33 @@ x install gomi
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last180d | 2026-03-14 | 2 | 18 | 0 | 2 | 2 | 48 |
 | 360d | 2025-09-15 | 3 | 21 | 0 | 5 | 2 | 53 |
+| last720d | 2024-09-20 | 19 | 71 | 0 | 19 | 2 | 399 |
 
-## Code size
+## Release assets
 
-Total: **12,112** lines of code across **93** files in the top 5 languages.
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [gomi_1.6.4_checksums.txt](https://github.com/babarot/gomi/releases/download/v1.6.4/gomi_1.6.4_checksums.txt) | 633 B | `other` |
+| [gomi_Darwin_arm64.tar.gz](https://github.com/babarot/gomi/releases/download/v1.6.4/gomi_Darwin_arm64.tar.gz) | 4.9 MiB | `native/darwin/arm64` |
+| [gomi_Darwin_x86_64.tar.gz](https://github.com/babarot/gomi/releases/download/v1.6.4/gomi_Darwin_x86_64.tar.gz) | 5.2 MiB | `native/darwin/x64` |
+| [gomi_Linux_arm64.tar.gz](https://github.com/babarot/gomi/releases/download/v1.6.4/gomi_Linux_arm64.tar.gz) | 4.7 MiB | `native/linux/arm64` |
+| [gomi_Linux_armv6.tar.gz](https://github.com/babarot/gomi/releases/download/v1.6.4/gomi_Linux_armv6.tar.gz) | 4.9 MiB | `native/linux/arm` |
+| [gomi_Linux_x86_64.tar.gz](https://github.com/babarot/gomi/releases/download/v1.6.4/gomi_Linux_x86_64.tar.gz) | 5.1 MiB | `native/linux/x64` |
+| [gomi_Windows_arm64.zip](https://github.com/babarot/gomi/releases/download/v1.6.4/gomi_Windows_arm64.zip) | 4.8 MiB | `native/win/arm64` |
+| [gomi_Windows_x86_64.zip](https://github.com/babarot/gomi/releases/download/v1.6.4/gomi_Windows_x86_64.zip) | 5.3 MiB | `native/win/x64` |
 
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Go | 11,205 | 1,051 | 1,940 | 88 |
-| Css | 578 | 56 | 107 | 1 |
-| Html | 197 | 11 | 19 | 2 |
-| Bash | 108 | 3 | 21 | 1 |
-| Makefile | 21 | 0 | 10 | 1 |
+## Distribution status
+
+Reported by **11** distros on [repology.org](https://repology.org/project/gomi). **5** are ✅ on the latest upstream release, **5** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `1.6.4` | ✅ latest |
+| Nix unstable | `1.6.4` | ✅ latest |
 
 ## Improve this data
 
@@ -74,4 +86,4 @@ Install metadata for gomi lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:18:53Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T21:25:02Z._
