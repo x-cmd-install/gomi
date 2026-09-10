@@ -4,7 +4,7 @@
 
 🗑️ Your UNIX rm command with a safety net!
 
-![gomi](https://repo.x-cmd.io/gomi.svg)
+![gomi](https://repo.x-cmd.io/gomi.svg?lang=zh)
 
 ## 安装
 
@@ -23,7 +23,19 @@ x install gomi
 - **最新版本**: `v1.6.4` (2026-06-07)
 - **最近提交**: 2026-06-07
 - **Release 含资产**: 8 个
-- **发布时间**: 2026-06-07T07:24:10Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [gomi_1.6.4_checksums.txt](https://github.com/babarot/gomi/releases/download/v1.6.4/gomi_1.6.4_checksums.txt) | 633 B | `other` |
+| [gomi_Darwin_arm64.tar.gz](https://github.com/babarot/gomi/releases/download/v1.6.4/gomi_Darwin_arm64.tar.gz) | 4.9 MiB | `native/darwin/arm64` |
+| [gomi_Darwin_x86_64.tar.gz](https://github.com/babarot/gomi/releases/download/v1.6.4/gomi_Darwin_x86_64.tar.gz) | 5.2 MiB | `native/darwin/x64` |
+| [gomi_Linux_arm64.tar.gz](https://github.com/babarot/gomi/releases/download/v1.6.4/gomi_Linux_arm64.tar.gz) | 4.7 MiB | `native/linux/arm64` |
+| [gomi_Linux_armv6.tar.gz](https://github.com/babarot/gomi/releases/download/v1.6.4/gomi_Linux_armv6.tar.gz) | 4.9 MiB | `native/linux/arm` |
+| [gomi_Linux_x86_64.tar.gz](https://github.com/babarot/gomi/releases/download/v1.6.4/gomi_Linux_x86_64.tar.gz) | 5.1 MiB | `native/linux/x64` |
+| [gomi_Windows_arm64.zip](https://github.com/babarot/gomi/releases/download/v1.6.4/gomi_Windows_arm64.zip) | 4.8 MiB | `native/win/arm64` |
+| [gomi_Windows_x86_64.zip](https://github.com/babarot/gomi/releases/download/v1.6.4/gomi_Windows_x86_64.zip) | 5.3 MiB | `native/win/x64` |
 
 ## 流行度
 
@@ -62,4 +74,4 @@ gomi 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:43:42Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:18:53Z._

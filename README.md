@@ -23,7 +23,19 @@ x install gomi
 - **Latest**: `v1.6.4` (2026-06-07)
 - **Last commit**: 2026-06-07
 - **Assets in release**: 8
-- **Published**: 2026-06-07T07:24:10Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [gomi_1.6.4_checksums.txt](https://github.com/babarot/gomi/releases/download/v1.6.4/gomi_1.6.4_checksums.txt) | 633 B | `other` |
+| [gomi_Darwin_arm64.tar.gz](https://github.com/babarot/gomi/releases/download/v1.6.4/gomi_Darwin_arm64.tar.gz) | 4.9 MiB | `native/darwin/arm64` |
+| [gomi_Darwin_x86_64.tar.gz](https://github.com/babarot/gomi/releases/download/v1.6.4/gomi_Darwin_x86_64.tar.gz) | 5.2 MiB | `native/darwin/x64` |
+| [gomi_Linux_arm64.tar.gz](https://github.com/babarot/gomi/releases/download/v1.6.4/gomi_Linux_arm64.tar.gz) | 4.7 MiB | `native/linux/arm64` |
+| [gomi_Linux_armv6.tar.gz](https://github.com/babarot/gomi/releases/download/v1.6.4/gomi_Linux_armv6.tar.gz) | 4.9 MiB | `native/linux/arm` |
+| [gomi_Linux_x86_64.tar.gz](https://github.com/babarot/gomi/releases/download/v1.6.4/gomi_Linux_x86_64.tar.gz) | 5.1 MiB | `native/linux/x64` |
+| [gomi_Windows_arm64.zip](https://github.com/babarot/gomi/releases/download/v1.6.4/gomi_Windows_arm64.zip) | 4.8 MiB | `native/win/arm64` |
+| [gomi_Windows_x86_64.zip](https://github.com/babarot/gomi/releases/download/v1.6.4/gomi_Windows_x86_64.zip) | 5.3 MiB | `native/win/x64` |
 
 ## Popularity
 
@@ -58,8 +70,8 @@ Total: **12,112** lines of code across **93** files in the top 5 languages.
 Install metadata for gomi lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `gomi` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/gomi.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/gomi.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:43:41Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:18:53Z._
