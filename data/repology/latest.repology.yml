@@ -1,0 +1,120 @@
+- repo: nix_stable_25_05
+  srcname: gomi
+  visiblename: gomi
+  version: 1.6.0
+  origversion: null
+  status: outdated
+  summary: Replacement for UNIX rm command
+  maintainers:
+    - miguel.madrid.mencia@gmail.com
+    - ozkutuk@protonmail.com
+  licenses:
+    - MIT
+- repo: aur
+  srcname: gomi
+  binname: gomi
+  visiblename: gomi
+  version: 1.6.4
+  origversion: 1.6.4-1
+  status: newest
+  summary: Rm alternative written in Go
+  maintainers:
+    - carlosal1015@aur
+  licenses:
+    - MIT
+- repo: aur
+  srcname: gomi-bin
+  binname: gomi-bin
+  visiblename: gomi-bin
+  version: 1.6.4
+  origversion: 1.6.4-1
+  status: newest
+  summary: Rm alternative written in Go
+  maintainers:
+    - carlosal1015@aur
+  licenses:
+    - MIT
+- repo: freebsd
+  srcname: sysutils/gomi
+  binname: gomi
+  visiblename: sysutils/gomi
+  version: 1.6.4
+  origversion: 1.6.4_4
+  status: newest
+  summary: Unix rm(1) command that can restore deleted files
+  maintainers:
+    - eduardo@freebsd.org
+  categories:
+    - sysutils
+- repo: homebrew
+  srcname: gomi
+  visiblename: gomi
+  version: 1.6.4
+  origversion: null
+  status: newest
+  summary: Functions like rm but with the ability to restore files
+- repo: homebrew
+  srcname: gomi
+  visiblename: gomi
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Functions like rm but with the ability to restore files
+- repo: nix_stable_24_05
+  srcname: gomi
+  visiblename: gomi
+  version: 1.1.6
+  origversion: null
+  status: outdated
+  summary: Replacement for UNIX rm command
+  maintainers:
+    - ozkutuk@protonmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_24_11
+  srcname: gomi
+  visiblename: gomi
+  version: 1.1.6
+  origversion: null
+  status: outdated
+  summary: Replacement for UNIX rm command
+  maintainers:
+    - ozkutuk@protonmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_26_05
+  srcname: gomi
+  visiblename: gomi
+  version: 1.6.2
+  origversion: null
+  status: outdated
+  summary: Replacement for UNIX rm command
+  maintainers:
+    - miguel.madrid.mencia@gmail.com
+    - ozkutuk@protonmail.com
+  licenses:
+    - MIT
+- repo: nix_unstable
+  srcname: gomi
+  visiblename: gomi
+  version: 1.6.4
+  origversion: null
+  status: newest
+  summary: Replacement for UNIX rm command
+  maintainers:
+    - miguel.madrid.mencia@gmail.com
+    - ozkutuk@protonmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: gomi
+  visiblename: gomi
+  version: 1.6.1
+  origversion: null
+  status: outdated
+  summary: Replacement for UNIX rm command
+  maintainers:
+    - miguel.madrid.mencia@gmail.com
+    - ozkutuk@protonmail.com
+  licenses:
+    - MIT
