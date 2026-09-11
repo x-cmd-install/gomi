@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 633,
       "digest": "sha256:f3f0f373893d321e21a0220ac8cf688953188427ce08fb18ed995e04fe15aef1",
-      "download_count": 1035,
+      "download_count": 1037,
       "created_at": "2026-06-07T07:26:39Z",
       "updated_at": "2026-06-07T07:26:40Z",
       "browser_download_url": "https://github.com/babarot/gomi/releases/download/v1.6.4/gomi_1.6.4_checksums.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 5111451,
       "digest": "sha256:1b33045f11844b7dae4af105f6ce7f62d6e25927423cb91b2044760e6b208897",
-      "download_count": 1288,
+      "download_count": 1311,
       "created_at": "2026-06-07T07:26:39Z",
       "updated_at": "2026-06-07T07:26:40Z",
       "browser_download_url": "https://github.com/babarot/gomi/releases/download/v1.6.4/gomi_Darwin_arm64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 5366098,
       "digest": "sha256:d6a8edcdafbd63923e1bdf76f0ad8d06fb4394087e20a5f70979e81bf5a7cce8",
-      "download_count": 2718,
+      "download_count": 2753,
       "created_at": "2026-06-07T07:26:38Z",
       "updated_at": "2026-06-07T07:26:39Z",
       "browser_download_url": "https://github.com/babarot/gomi/releases/download/v1.6.4/gomi_Linux_x86_64.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 5559437,
       "digest": "sha256:6097b6f1f757f1735c27d65e9e534f21894409d588503dfd673bb3d79c1241bd",
-      "download_count": 81,
+      "download_count": 82,
       "created_at": "2026-06-07T07:26:39Z",
       "updated_at": "2026-06-07T07:26:40Z",
       "browser_download_url": "https://github.com/babarot/gomi/releases/download/v1.6.4/gomi_Windows_x86_64.zip"
