@@ -4,7 +4,7 @@
 
 🗑️ Your UNIX rm command with a safety net!
 
-[![x-cmd/install — gomi Code Quality Monitoring Repo Card](https://repo.x-cmd.io/gomi.svg?lang=zh)](https://x-cmd.com/install/gomi)
+[![x-cmd/install — gomi Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/gomi.svg?lang=zh)](https://x-cmd.com/install/gomi)
 
 ## 安装
 
@@ -48,12 +48,12 @@ x install gomi
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-24 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-24 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-26 | 1 | 11 | 0 | 2 | 2 | 32 |
-| 360d | 2025-09-27 | 3 | 21 | 0 | 5 | 2 | 53 |
-| last720d | 2024-10-02 | 19 | 71 | 0 | 19 | 2 | 399 |
+| 30d | 2026-08-24 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-25 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-25 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-27 | 1 | 11 | 0 | 2 | 2 | 32 |
+| 360d | 2025-09-28 | 3 | 21 | 0 | 5 | 2 | 53 |
+| last720d | 2024-10-03 | 19 | 71 | 0 | 19 | 2 | 399 |
 
 ## Release 资产
 
@@ -77,4 +77,4 @@ gomi 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T04:48:50Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T04:48:26Z._

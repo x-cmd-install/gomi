@@ -4,7 +4,7 @@
 
 🗑️ Your UNIX rm command with a safety net!
 
-[![x-cmd/install — gomi Code Quality Monitoring Repo Card](https://repo.x-cmd.io/gomi.svg)](https://x-cmd.com/install/gomi)
+[![x-cmd/install — gomi Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/gomi.svg)](https://x-cmd.com/install/gomi)
 
 ## Install
 
@@ -48,12 +48,12 @@ Total: **12,112** lines of code across **93** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-24 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-24 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-26 | 1 | 11 | 0 | 2 | 2 | 32 |
-| 360d | 2025-09-27 | 3 | 21 | 0 | 5 | 2 | 53 |
-| last720d | 2024-10-02 | 19 | 71 | 0 | 19 | 2 | 399 |
+| 30d | 2026-08-24 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-25 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-25 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-27 | 1 | 11 | 0 | 2 | 2 | 32 |
+| 360d | 2025-09-28 | 3 | 21 | 0 | 5 | 2 | 53 |
+| last720d | 2024-10-03 | 19 | 71 | 0 | 19 | 2 | 399 |
 
 ## Release assets
 
@@ -77,4 +77,4 @@ Install metadata for gomi lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T04:48:49Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T04:48:25Z._
