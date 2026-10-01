@@ -14,11 +14,11 @@ x install gomi
 
 ## 代码洞察
 
-合计: **12,158** 行代码（覆盖前 5 种语言、共 **93** 个文件）。
+合计: **12,287** 行代码（覆盖前 5 种语言、共 **93** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 11,251 | 1,058 | 1,947 | 88 |
+| Go | 11,380 | 1,093 | 1,961 | 88 |
 | Css | 578 | 56 | 107 | 1 |
 | Html | 197 | 11 | 19 | 2 |
 | Bash | 108 | 3 | 21 | 1 |
@@ -32,8 +32,8 @@ x install gomi
 
 ## 发布
 
-- **最新版本**: `v1.6.4` (2026-06-07)
-- **最近提交**: 2026-09-29
+- **最新版本**: `v1.6.5` (2026-09-30)
+- **最近提交**: 2026-09-30
 - **Release 含资产**: 8 个
 
 ## 流行度
@@ -42,31 +42,31 @@ x install gomi
 
 ## 累计统计
 
-- **发布数**: 34 · **已合并 PR**: 84 · **开放 PR**: 1 · **已关闭 issue**: 42 · **开放 issue**: 2 · **提交数**: 538
+- **发布数**: 35 · **已合并 PR**: 86 · **开放 PR**: 0 · **已关闭 issue**: 42 · **开放 issue**: 2 · **提交数**: 544
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-31 | 0 | 1 | 1 | 1 | 0 | 2 |
-| last60d | 2026-08-01 | 0 | 1 | 1 | 1 | 0 | 2 |
-| 90d | 2026-07-02 | 0 | 1 | 1 | 1 | 0 | 2 |
-| last180d | 2026-04-03 | 1 | 11 | 1 | 3 | 2 | 7 |
-| 360d | 2025-10-05 | 3 | 22 | 1 | 6 | 2 | 55 |
-| last720d | 2024-10-10 | 19 | 72 | 1 | 20 | 2 | 402 |
+| 30d | 2026-09-01 | 1 | 3 | 0 | 1 | 0 | 6 |
+| last60d | 2026-08-02 | 1 | 3 | 0 | 1 | 0 | 6 |
+| 90d | 2026-07-03 | 1 | 3 | 0 | 1 | 0 | 6 |
+| last180d | 2026-04-04 | 2 | 6 | 0 | 3 | 2 | 11 |
+| 360d | 2025-10-06 | 4 | 24 | 0 | 6 | 2 | 59 |
+| last720d | 2024-10-11 | 20 | 74 | 0 | 20 | 2 | 408 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [gomi_1.6.4_checksums.txt](https://github.com/babarot/gomi/releases/download/v1.6.4/gomi_1.6.4_checksums.txt) | 633 B | `other` |
-| [gomi_Darwin_arm64.tar.gz](https://github.com/babarot/gomi/releases/download/v1.6.4/gomi_Darwin_arm64.tar.gz) | 4.9 MiB | `native/darwin/arm64` |
-| [gomi_Darwin_x86_64.tar.gz](https://github.com/babarot/gomi/releases/download/v1.6.4/gomi_Darwin_x86_64.tar.gz) | 5.2 MiB | `native/darwin/x64` |
-| [gomi_Linux_arm64.tar.gz](https://github.com/babarot/gomi/releases/download/v1.6.4/gomi_Linux_arm64.tar.gz) | 4.7 MiB | `native/linux/arm64` |
-| [gomi_Linux_armv6.tar.gz](https://github.com/babarot/gomi/releases/download/v1.6.4/gomi_Linux_armv6.tar.gz) | 4.9 MiB | `native/linux/arm` |
-| [gomi_Linux_x86_64.tar.gz](https://github.com/babarot/gomi/releases/download/v1.6.4/gomi_Linux_x86_64.tar.gz) | 5.1 MiB | `native/linux/x64` |
-| [gomi_Windows_arm64.zip](https://github.com/babarot/gomi/releases/download/v1.6.4/gomi_Windows_arm64.zip) | 4.8 MiB | `native/win/arm64` |
-| [gomi_Windows_x86_64.zip](https://github.com/babarot/gomi/releases/download/v1.6.4/gomi_Windows_x86_64.zip) | 5.3 MiB | `native/win/x64` |
+| [gomi_1.6.5_checksums.txt](https://github.com/babarot/gomi/releases/download/v1.6.5/gomi_1.6.5_checksums.txt) | 633 B | `other` |
+| [gomi_Darwin_arm64.tar.gz](https://github.com/babarot/gomi/releases/download/v1.6.5/gomi_Darwin_arm64.tar.gz) | 4.9 MiB | `native/darwin/arm64` |
+| [gomi_Darwin_x86_64.tar.gz](https://github.com/babarot/gomi/releases/download/v1.6.5/gomi_Darwin_x86_64.tar.gz) | 5.2 MiB | `native/darwin/x64` |
+| [gomi_Linux_arm64.tar.gz](https://github.com/babarot/gomi/releases/download/v1.6.5/gomi_Linux_arm64.tar.gz) | 4.6 MiB | `native/linux/arm64` |
+| [gomi_Linux_armv6.tar.gz](https://github.com/babarot/gomi/releases/download/v1.6.5/gomi_Linux_armv6.tar.gz) | 4.9 MiB | `native/linux/arm` |
+| [gomi_Linux_x86_64.tar.gz](https://github.com/babarot/gomi/releases/download/v1.6.5/gomi_Linux_x86_64.tar.gz) | 5.1 MiB | `native/linux/x64` |
+| [gomi_Windows_arm64.zip](https://github.com/babarot/gomi/releases/download/v1.6.5/gomi_Windows_arm64.zip) | 4.7 MiB | `native/win/arm64` |
+| [gomi_Windows_x86_64.zip](https://github.com/babarot/gomi/releases/download/v1.6.5/gomi_Windows_x86_64.zip) | 5.3 MiB | `native/win/x64` |
 
 ## 改进这些数据
 
@@ -77,4 +77,4 @@ gomi 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260930.yml` · 2026-09-30T05:33:07Z._
+_数据快照: `data/card/261001.yml` · 2026-10-01T05:52:38Z._
