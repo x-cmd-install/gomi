@@ -14,11 +14,11 @@ x install gomi
 
 ## Code insight
 
-Total: **12,361** lines of code across **93** files in the top 5 languages.
+Total: **12,678** lines of code across **95** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 11,454 | 1,100 | 1,966 | 88 |
+| Go | 11,771 | 1,120 | 2,004 | 90 |
 | Css | 578 | 56 | 107 | 1 |
 | Html | 197 | 11 | 19 | 2 |
 | Bash | 108 | 3 | 21 | 1 |
@@ -33,27 +33,27 @@ Total: **12,361** lines of code across **93** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.6.5` (2026-09-30)
-- **Last commit**: 2026-10-02
+- **Last commit**: 2026-10-03
 - **Assets in release**: 8
 
 ## Popularity
 
-- **Stars**: 574 · **Forks**: 16 · **Open issues**: 44 · **Contributors**: 9
+- **Stars**: 574 · **Forks**: 17 · **Open issues**: 44 · **Contributors**: 9
 
 ## Totals (cumulative)
 
-- **Releases**: 35 · **Merged PRs**: 87 · **Open PRs**: 1 · **Closed issues**: 42 · **Open issues**: 2 · **Commits**: 548
+- **Releases**: 35 · **Merged PRs**: 89 · **Open PRs**: 2 · **Closed issues**: 43 · **Open issues**: 1 · **Commits**: 552
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-03 | 1 | 4 | 1 | 1 | 0 | 9 |
-| last60d | 2026-08-04 | 1 | 4 | 1 | 1 | 0 | 9 |
-| 90d | 2026-07-05 | 1 | 4 | 1 | 1 | 0 | 9 |
-| last180d | 2026-04-06 | 2 | 7 | 1 | 3 | 2 | 14 |
-| 360d | 2025-10-08 | 4 | 25 | 1 | 6 | 2 | 62 |
-| last720d | 2024-10-13 | 20 | 75 | 1 | 20 | 2 | 412 |
+| 30d | 2026-09-04 | 1 | 6 | 2 | 1 | 0 | 11 |
+| last60d | 2026-08-05 | 1 | 6 | 2 | 1 | 0 | 11 |
+| 90d | 2026-07-06 | 1 | 6 | 2 | 1 | 0 | 11 |
+| last180d | 2026-04-07 | 2 | 9 | 2 | 4 | 1 | 16 |
+| 360d | 2025-10-09 | 4 | 27 | 2 | 7 | 1 | 64 |
+| last720d | 2024-10-14 | 20 | 77 | 2 | 21 | 1 | 416 |
 
 ## Release assets
 
@@ -77,4 +77,4 @@ Install metadata for gomi lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261003.yml` · 2026-10-03T05:12:27Z._
+_Snapshot: `data/card/261004.yml` · 2026-10-04T05:46:27Z._
