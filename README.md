@@ -33,27 +33,27 @@ Total: **12,678** lines of code across **95** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.6.5` (2026-09-30)
-- **Last commit**: 2026-10-03
+- **Last commit**: 2026-10-09
 - **Assets in release**: 8
 
 ## Popularity
 
-- **Stars**: 575 · **Forks**: 17 · **Open issues**: 44 · **Contributors**: 9
+- **Stars**: 576 · **Forks**: 17 · **Open issues**: 44 · **Contributors**: 9
 
 ## Totals (cumulative)
 
-- **Releases**: 35 · **Merged PRs**: 89 · **Open PRs**: 2 · **Closed issues**: 43 · **Open issues**: 1 · **Commits**: 552
+- **Releases**: 35 · **Merged PRs**: 92 · **Open PRs**: 2 · **Closed issues**: 43 · **Open issues**: 1 · **Commits**: 558
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-08 | 1 | 6 | 2 | 1 | 0 | 11 |
-| last60d | 2026-08-09 | 1 | 6 | 2 | 1 | 0 | 11 |
-| 90d | 2026-07-10 | 1 | 6 | 2 | 1 | 0 | 11 |
-| last180d | 2026-04-11 | 2 | 9 | 2 | 4 | 1 | 16 |
-| 360d | 2025-10-13 | 4 | 27 | 2 | 7 | 1 | 64 |
-| last720d | 2024-10-18 | 20 | 77 | 2 | 21 | 1 | 416 |
+| 30d | 2026-09-10 | 1 | 9 | 2 | 1 | 0 | 14 |
+| last60d | 2026-08-11 | 1 | 9 | 2 | 1 | 0 | 14 |
+| 90d | 2026-07-12 | 1 | 9 | 2 | 1 | 0 | 14 |
+| last180d | 2026-04-13 | 2 | 12 | 2 | 4 | 1 | 19 |
+| 360d | 2025-10-15 | 4 | 30 | 2 | 7 | 1 | 67 |
+| last720d | 2024-10-20 | 20 | 80 | 2 | 21 | 1 | 422 |
 
 ## Release assets
 
@@ -77,4 +77,4 @@ Install metadata for gomi lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261008.yml` · 2026-10-08T06:03:46Z._
+_Snapshot: `data/card/261010.yml` · 2026-10-10T05:52:23Z._
