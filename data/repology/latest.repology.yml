@@ -1,9 +1,31 @@
+- repo: nix_unstable
+  srcname: gomi
+  visiblename: gomi
+  version: 1.6.5
+  origversion: null
+  status: outdated
+  summary: Replacement for UNIX rm command
+  maintainers:
+    - miguel.madrid.mencia@gmail.com
+    - ozkutuk@protonmail.com
+  licenses:
+    - MIT
+- repo: tur
+  srcname: gomi
+  binname: gomi
+  visiblename: gomi
+  version: 1.10.1
+  origversion: null
+  status: newest
+  summary: Safer alternative to the rm command, with a trash can you can restore from
+  maintainers:
+    - 80939130+zeldrisho@users.noreply.github.com
 - repo: aur
   srcname: gomi
   binname: gomi
   visiblename: gomi
-  version: 1.9.1
-  origversion: 1.9.1-1
+  version: 1.10.1
+  origversion: 1.10.1-1
   status: newest
   summary: Rm alternative written in Go
   maintainers:
@@ -14,8 +36,8 @@
   srcname: gomi-bin
   binname: gomi-bin
   visiblename: gomi-bin
-  version: 1.9.1
-  origversion: 1.9.1-1
+  version: 1.10.1
+  origversion: 1.10.1-1
   status: newest
   summary: Rm alternative written in Go
   maintainers:
@@ -37,7 +59,7 @@
 - repo: homebrew
   srcname: gomi
   visiblename: gomi
-  version: 1.9.1
+  version: 1.10.1
   origversion: null
   status: newest
   summary: Functions like rm but with the ability to restore files
@@ -106,25 +128,3 @@
     - ozkutuk@protonmail.com
   licenses:
     - MIT
-- repo: nix_unstable
-  srcname: gomi
-  visiblename: gomi
-  version: 1.6.5
-  origversion: null
-  status: outdated
-  summary: Replacement for UNIX rm command
-  maintainers:
-    - miguel.madrid.mencia@gmail.com
-    - ozkutuk@protonmail.com
-  licenses:
-    - MIT
-- repo: tur
-  srcname: gomi
-  binname: gomi
-  visiblename: gomi
-  version: 1.9.1
-  origversion: null
-  status: newest
-  summary: Safer alternative to the rm command, with a trash can you can restore from
-  maintainers:
-    - 80939130+zeldrisho@users.noreply.github.com
