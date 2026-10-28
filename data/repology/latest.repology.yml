@@ -1,68 +1,3 @@
-- repo: nix_unstable
-  srcname: gomi
-  visiblename: gomi
-  version: 1.6.5
-  origversion: null
-  status: outdated
-  summary: Replacement for UNIX rm command
-  maintainers:
-    - miguel.madrid.mencia@gmail.com
-    - ozkutuk@protonmail.com
-  licenses:
-    - MIT
-- repo: tur
-  srcname: gomi
-  binname: gomi
-  visiblename: gomi
-  version: 1.10.1
-  origversion: null
-  status: newest
-  summary: Safer alternative to the rm command, with a trash can you can restore from
-  maintainers:
-    - 80939130+zeldrisho@users.noreply.github.com
-- repo: aur
-  srcname: gomi
-  binname: gomi
-  visiblename: gomi
-  version: 1.10.1
-  origversion: 1.10.1-1
-  status: newest
-  summary: Rm alternative written in Go
-  maintainers:
-    - carlosal1015@aur
-  licenses:
-    - MIT
-- repo: aur
-  srcname: gomi-bin
-  binname: gomi-bin
-  visiblename: gomi-bin
-  version: 1.10.1
-  origversion: 1.10.1-1
-  status: newest
-  summary: Rm alternative written in Go
-  maintainers:
-    - carlosal1015@aur
-  licenses:
-    - MIT
-- repo: freebsd
-  srcname: sysutils/gomi
-  binname: gomi
-  visiblename: sysutils/gomi
-  version: 1.9.0
-  origversion: null
-  status: outdated
-  summary: Unix rm(1) command that can restore deleted files
-  maintainers:
-    - eduardo@freebsd.org
-  categories:
-    - sysutils
-- repo: homebrew
-  srcname: gomi
-  visiblename: gomi
-  version: 1.10.1
-  origversion: null
-  status: newest
-  summary: Functions like rm but with the ability to restore files
 - repo: homebrew
   srcname: gomi
   visiblename: gomi
@@ -116,6 +51,49 @@
     - ozkutuk@protonmail.com
   licenses:
     - MIT
+- repo: homebrew
+  srcname: gomi
+  visiblename: gomi
+  version: 1.10.1
+  origversion: null
+  status: newest
+  summary: Functions like rm but with the ability to restore files
+- repo: aur
+  srcname: gomi
+  binname: gomi
+  visiblename: gomi
+  version: 1.10.1
+  origversion: 1.10.1-1
+  status: newest
+  summary: Rm alternative written in Go
+  maintainers:
+    - carlosal1015@aur
+  licenses:
+    - MIT
+- repo: aur
+  srcname: gomi-bin
+  binname: gomi-bin
+  visiblename: gomi-bin
+  version: 1.10.1
+  origversion: 1.10.1-1
+  status: newest
+  summary: Rm alternative written in Go
+  maintainers:
+    - carlosal1015@aur
+  licenses:
+    - MIT
+- repo: freebsd
+  srcname: sysutils/gomi
+  binname: gomi
+  visiblename: sysutils/gomi
+  version: 1.10.1
+  origversion: null
+  status: newest
+  summary: Unix rm(1) command that can restore deleted files
+  maintainers:
+    - eduardo@freebsd.org
+  categories:
+    - sysutils
 - repo: nix_stable_26_05
   srcname: gomi
   visiblename: gomi
@@ -128,3 +106,25 @@
     - ozkutuk@protonmail.com
   licenses:
     - MIT
+- repo: nix_unstable
+  srcname: gomi
+  visiblename: gomi
+  version: 1.7.0
+  origversion: null
+  status: outdated
+  summary: Replacement for UNIX rm command
+  maintainers:
+    - miguel.madrid.mencia@gmail.com
+    - ozkutuk@protonmail.com
+  licenses:
+    - MIT
+- repo: tur
+  srcname: gomi
+  binname: gomi
+  visiblename: gomi
+  version: 1.10.1
+  origversion: null
+  status: newest
+  summary: Safer alternative to the rm command, with a trash can you can restore from
+  maintainers:
+    - 80939130+zeldrisho@users.noreply.github.com
