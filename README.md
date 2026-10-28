@@ -14,11 +14,11 @@ x install gomi
 
 ## Code insight
 
-Total: **21,168** lines of code across **143** files in the top 5 languages.
+Total: **21,255** lines of code across **145** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 18,875 | 2,057 | 2,702 | 115 |
+| Go | 18,962 | 2,062 | 2,710 | 117 |
 | JavaScript | 1,587 | 180 | 128 | 18 |
 | Sh | 242 | 58 | 44 | 5 |
 | Css | 163 | 12 | 13 | 1 |
@@ -38,22 +38,22 @@ Total: **21,168** lines of code across **143** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 578 · **Forks**: 17 · **Open issues**: 45 · **Contributors**: 9
+- **Stars**: 579 · **Forks**: 17 · **Open issues**: 45 · **Contributors**: 9
 
 ## Totals (cumulative)
 
-- **Releases**: 41 · **Merged PRs**: 141 · **Open PRs**: 3 · **Closed issues**: 43 · **Open issues**: 2 · **Commits**: 697
+- **Releases**: 41 · **Merged PRs**: 142 · **Open PRs**: 2 · **Closed issues**: 44 · **Open issues**: 1 · **Commits**: 699
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-27 | 7 | 58 | 3 | 1 | 1 | 98 |
-| last60d | 2026-08-28 | 7 | 58 | 3 | 1 | 1 | 104 |
-| 90d | 2026-07-29 | 7 | 58 | 3 | 1 | 1 | 104 |
-| last180d | 2026-04-30 | 8 | 61 | 3 | 4 | 2 | 109 |
-| 360d | 2025-11-01 | 10 | 79 | 3 | 7 | 2 | 157 |
-| last720d | 2024-11-06 | 26 | 129 | 3 | 21 | 2 | 561 |
+| 30d | 2026-09-28 | 7 | 58 | 2 | 1 | 0 | 99 |
+| last60d | 2026-08-29 | 7 | 59 | 2 | 2 | 0 | 105 |
+| 90d | 2026-07-30 | 7 | 59 | 2 | 2 | 0 | 105 |
+| last180d | 2026-05-01 | 8 | 62 | 2 | 5 | 1 | 110 |
+| 360d | 2025-11-02 | 10 | 80 | 2 | 8 | 1 | 158 |
+| last720d | 2024-11-07 | 26 | 130 | 2 | 22 | 1 | 563 |
 
 ## Release assets
 
@@ -70,12 +70,12 @@ Total: **21,168** lines of code across **143** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **12** distros on [repology.org](https://repology.org/project/gomi). **4** are ✅ on the latest upstream release, **7** are ⚠️ on an older version.
+Reported by **12** distros on [repology.org](https://repology.org/project/gomi). **5** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Homebrew | `1.10.1` | ✅ latest |
-| Nix unstable | `1.6.5` | ⚠️ outdated |
+| Homebrew | `HEAD` | 🔄 rolling |
+| Nix unstable | `1.7.0` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -86,4 +86,4 @@ Install metadata for gomi lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261027.yml` · 2026-10-27T05:01:51Z._
+_Snapshot: `data/card/261028.yml` · 2026-10-28T05:36:10Z._
