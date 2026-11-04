@@ -42,18 +42,18 @@ Total: **21,485** lines of code across **146** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 41 · **Merged PRs**: 146 · **Open PRs**: 2 · **Closed issues**: 44 · **Open issues**: 1 · **Commits**: 709
+- **Releases**: 41 · **Merged PRs**: 147 · **Open PRs**: 2 · **Closed issues**: 44 · **Open issues**: 1 · **Commits**: 711
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-04 | 6 | 56 | 1 | 1 | 0 | 99 |
-| last60d | 2026-09-04 | 7 | 63 | 2 | 2 | 0 | 110 |
-| 90d | 2026-08-05 | 7 | 63 | 2 | 2 | 0 | 110 |
-| last180d | 2026-05-07 | 8 | 66 | 2 | 5 | 1 | 115 |
-| 360d | 2025-11-08 | 10 | 84 | 2 | 8 | 1 | 162 |
-| last720d | 2024-11-13 | 26 | 134 | 2 | 22 | 1 | 573 |
+| 30d | 2026-10-05 | 6 | 57 | 1 | 1 | 0 | 100 |
+| last60d | 2026-09-05 | 7 | 64 | 2 | 2 | 0 | 111 |
+| 90d | 2026-08-06 | 7 | 64 | 2 | 2 | 0 | 111 |
+| last180d | 2026-05-08 | 8 | 67 | 2 | 5 | 1 | 116 |
+| 360d | 2025-11-09 | 10 | 84 | 2 | 8 | 1 | 163 |
+| last720d | 2024-11-14 | 26 | 135 | 2 | 22 | 1 | 575 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for gomi lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261103.yml` · 2026-11-03T06:45:12Z._
+_Snapshot: `data/card/261104.yml` · 2026-11-04T06:17:51Z._
