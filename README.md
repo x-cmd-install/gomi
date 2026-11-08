@@ -48,12 +48,12 @@ Total: **21,485** lines of code across **146** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-08 | 6 | 57 | 1 | 1 | 0 | 100 |
-| last60d | 2026-09-08 | 7 | 64 | 2 | 2 | 0 | 111 |
-| 90d | 2026-08-09 | 7 | 64 | 2 | 2 | 0 | 111 |
-| last180d | 2026-05-11 | 8 | 67 | 2 | 5 | 1 | 116 |
-| 360d | 2025-11-12 | 10 | 84 | 2 | 8 | 1 | 163 |
-| last720d | 2024-11-17 | 26 | 135 | 2 | 22 | 1 | 575 |
+| 30d | 2026-10-09 | 6 | 54 | 1 | 1 | 0 | 100 |
+| last60d | 2026-09-09 | 7 | 64 | 2 | 2 | 0 | 111 |
+| 90d | 2026-08-10 | 7 | 64 | 2 | 2 | 0 | 111 |
+| last180d | 2026-05-12 | 8 | 67 | 2 | 5 | 1 | 116 |
+| 360d | 2025-11-13 | 10 | 84 | 2 | 8 | 1 | 163 |
+| last720d | 2024-11-18 | 26 | 135 | 2 | 22 | 1 | 575 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for gomi lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261107.yml` · 2026-11-07T05:53:47Z._
+_Snapshot: `data/card/261108.yml` · 2026-11-08T05:59:04Z._
