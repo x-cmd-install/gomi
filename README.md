@@ -38,7 +38,7 @@ Total: **21,485** lines of code across **146** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 578 · **Forks**: 17 · **Open issues**: 45 · **Contributors**: 9
+- **Stars**: 577 · **Forks**: 17 · **Open issues**: 45 · **Contributors**: 9
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **21,485** lines of code across **146** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 6 | 55 | 1 | 1 | 0 | 98 |
-| last60d | 2026-09-18 | 7 | 65 | 2 | 2 | 0 | 112 |
-| 90d | 2026-08-19 | 7 | 65 | 2 | 2 | 0 | 112 |
-| last180d | 2026-05-21 | 8 | 68 | 2 | 5 | 1 | 117 |
-| 360d | 2025-11-22 | 10 | 85 | 2 | 7 | 1 | 164 |
-| last720d | 2024-11-27 | 26 | 136 | 2 | 22 | 1 | 577 |
+| 30d | 2026-10-20 | 6 | 55 | 1 | 1 | 0 | 98 |
+| last60d | 2026-09-20 | 7 | 65 | 2 | 2 | 0 | 112 |
+| 90d | 2026-08-21 | 7 | 65 | 2 | 2 | 0 | 112 |
+| last180d | 2026-05-23 | 8 | 68 | 2 | 4 | 1 | 117 |
+| 360d | 2025-11-24 | 10 | 85 | 2 | 6 | 1 | 164 |
+| last720d | 2024-11-29 | 26 | 136 | 2 | 22 | 1 | 577 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for gomi lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T08:01:01Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T08:38:11Z._
