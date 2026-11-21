@@ -14,11 +14,11 @@ x install gomi
 
 ## 代码洞察
 
-合计: **21,485** 行代码（覆盖前 5 种语言、共 **146** 个文件）。
+合计: **21,826** 行代码（覆盖前 5 种语言、共 **148** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 19,185 | 2,091 | 2,729 | 118 |
+| Go | 19,526 | 2,128 | 2,768 | 120 |
 | JavaScript | 1,587 | 180 | 128 | 18 |
 | Sh | 242 | 58 | 44 | 5 |
 | Css | 163 | 12 | 13 | 1 |
@@ -32,8 +32,8 @@ x install gomi
 
 ## 发布
 
-- **最新版本**: `v1.10.1` (2026-10-26)
-- **最近提交**: 2026-11-17
+- **最新版本**: `v1.11.0` (2026-11-20)
+- **最近提交**: 2026-11-20
 - **Release 含资产**: 8 个
 
 ## 流行度
@@ -42,40 +42,40 @@ x install gomi
 
 ## 累计统计
 
-- **发布数**: 41 · **已合并 PR**: 148 · **开放 PR**: 2 · **已关闭 issue**: 44 · **开放 issue**: 1 · **提交数**: 713
+- **发布数**: 42 · **已合并 PR**: 150 · **开放 PR**: 2 · **已关闭 issue**: 44 · **开放 issue**: 1 · **提交数**: 720
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 6 | 55 | 1 | 1 | 0 | 98 |
-| last60d | 2026-09-21 | 7 | 65 | 2 | 2 | 0 | 112 |
-| 90d | 2026-08-22 | 7 | 65 | 2 | 2 | 0 | 112 |
-| last180d | 2026-05-24 | 8 | 68 | 2 | 4 | 1 | 117 |
-| 360d | 2025-11-25 | 10 | 85 | 2 | 6 | 1 | 164 |
-| last720d | 2024-11-30 | 26 | 136 | 2 | 22 | 1 | 577 |
+| 30d | 2026-10-22 | 7 | 57 | 1 | 1 | 0 | 103 |
+| last60d | 2026-09-22 | 8 | 67 | 2 | 2 | 0 | 117 |
+| 90d | 2026-08-23 | 8 | 67 | 2 | 2 | 0 | 117 |
+| last180d | 2026-05-25 | 9 | 70 | 2 | 3 | 1 | 122 |
+| 360d | 2025-11-26 | 11 | 87 | 2 | 6 | 1 | 169 |
+| last720d | 2024-12-01 | 27 | 138 | 2 | 22 | 1 | 584 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [gomi_1.10.1_checksums.txt](https://github.com/babarot/gomi/releases/download/v1.10.1/gomi_1.10.1_checksums.txt) | 633 B | `other` |
-| [gomi_Darwin_arm64.tar.gz](https://github.com/babarot/gomi/releases/download/v1.10.1/gomi_Darwin_arm64.tar.gz) | 5.2 MiB | `native/darwin/arm64` |
-| [gomi_Darwin_x86_64.tar.gz](https://github.com/babarot/gomi/releases/download/v1.10.1/gomi_Darwin_x86_64.tar.gz) | 5.6 MiB | `native/darwin/x64` |
-| [gomi_Linux_arm64.tar.gz](https://github.com/babarot/gomi/releases/download/v1.10.1/gomi_Linux_arm64.tar.gz) | 4.9 MiB | `native/linux/arm64` |
-| [gomi_Linux_armv6.tar.gz](https://github.com/babarot/gomi/releases/download/v1.10.1/gomi_Linux_armv6.tar.gz) | 5.3 MiB | `native/linux/arm` |
-| [gomi_Linux_x86_64.tar.gz](https://github.com/babarot/gomi/releases/download/v1.10.1/gomi_Linux_x86_64.tar.gz) | 5.5 MiB | `native/linux/x64` |
-| [gomi_Windows_arm64.zip](https://github.com/babarot/gomi/releases/download/v1.10.1/gomi_Windows_arm64.zip) | 5.0 MiB | `native/win/arm64` |
-| [gomi_Windows_x86_64.zip](https://github.com/babarot/gomi/releases/download/v1.10.1/gomi_Windows_x86_64.zip) | 5.7 MiB | `native/win/x64` |
+| [gomi_1.11.0_checksums.txt](https://github.com/babarot/gomi/releases/download/v1.11.0/gomi_1.11.0_checksums.txt) | 633 B | `other` |
+| [gomi_Darwin_arm64.tar.gz](https://github.com/babarot/gomi/releases/download/v1.11.0/gomi_Darwin_arm64.tar.gz) | 4.9 MiB | `native/darwin/arm64` |
+| [gomi_Darwin_x86_64.tar.gz](https://github.com/babarot/gomi/releases/download/v1.11.0/gomi_Darwin_x86_64.tar.gz) | 5.3 MiB | `native/darwin/x64` |
+| [gomi_Linux_arm64.tar.gz](https://github.com/babarot/gomi/releases/download/v1.11.0/gomi_Linux_arm64.tar.gz) | 4.6 MiB | `native/linux/arm64` |
+| [gomi_Linux_armv6.tar.gz](https://github.com/babarot/gomi/releases/download/v1.11.0/gomi_Linux_armv6.tar.gz) | 4.9 MiB | `native/linux/arm` |
+| [gomi_Linux_x86_64.tar.gz](https://github.com/babarot/gomi/releases/download/v1.11.0/gomi_Linux_x86_64.tar.gz) | 5.1 MiB | `native/linux/x64` |
+| [gomi_Windows_arm64.zip](https://github.com/babarot/gomi/releases/download/v1.11.0/gomi_Windows_arm64.zip) | 5.0 MiB | `native/win/arm64` |
+| [gomi_Windows_x86_64.zip](https://github.com/babarot/gomi/releases/download/v1.11.0/gomi_Windows_x86_64.zip) | 5.7 MiB | `native/win/x64` |
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/gomi) 上共有 **12** 个发行版报告此项目。**6** 个 ✅ 已是最新上游版本，**5** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/gomi) 上共有 **12** 个发行版报告此项目。**1** 个 ✅ 已是最新上游版本，**10** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
-| Homebrew | `1.10.1` | ✅ latest |
-| Nix unstable | `1.10.1` | ✅ latest |
+| Homebrew | `1.11.0` | ✅ latest |
+| Nix unstable | `1.10.1` | ⚠️ outdated |
 
 ## 改进这些数据
 
@@ -86,4 +86,4 @@ gomi 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261120.yml` · 2026-11-20T07:45:44Z._
+_数据快照: `data/card/261121.yml` · 2026-11-21T06:59:22Z._
