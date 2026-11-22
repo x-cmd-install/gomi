@@ -14,11 +14,11 @@ x install gomi
 
 ## Code insight
 
-Total: **21,826** lines of code across **148** files in the top 5 languages.
+Total: **22,502** lines of code across **151** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 19,526 | 2,128 | 2,768 | 120 |
+| Go | 20,202 | 2,205 | 2,834 | 123 |
 | JavaScript | 1,587 | 180 | 128 | 18 |
 | Sh | 242 | 58 | 44 | 5 |
 | Css | 163 | 12 | 13 | 1 |
@@ -33,27 +33,27 @@ Total: **21,826** lines of code across **148** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.11.0` (2026-11-20)
-- **Last commit**: 2026-11-20
+- **Last commit**: 2026-11-21
 - **Assets in release**: 8
 
 ## Popularity
 
-- **Stars**: 577 · **Forks**: 17 · **Open issues**: 45 · **Contributors**: 9
+- **Stars**: 577 · **Forks**: 17 · **Open issues**: 45 · **Contributors**: 10
 
 ## Totals (cumulative)
 
-- **Releases**: 42 · **Merged PRs**: 150 · **Open PRs**: 2 · **Closed issues**: 44 · **Open issues**: 1 · **Commits**: 720
+- **Releases**: 42 · **Merged PRs**: 153 · **Open PRs**: 1 · **Closed issues**: 45 · **Open issues**: 0 · **Commits**: 729
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-22 | 7 | 57 | 1 | 1 | 0 | 103 |
-| last60d | 2026-09-22 | 8 | 67 | 2 | 2 | 0 | 117 |
-| 90d | 2026-08-23 | 8 | 67 | 2 | 2 | 0 | 117 |
-| last180d | 2026-05-25 | 9 | 70 | 2 | 3 | 1 | 122 |
-| 360d | 2025-11-26 | 11 | 87 | 2 | 6 | 1 | 169 |
-| last720d | 2024-12-01 | 27 | 138 | 2 | 22 | 1 | 584 |
+| 30d | 2026-10-23 | 7 | 59 | 1 | 1 | 0 | 17 |
+| last60d | 2026-09-23 | 8 | 70 | 1 | 2 | 0 | 121 |
+| 90d | 2026-08-24 | 8 | 70 | 1 | 2 | 0 | 123 |
+| last180d | 2026-05-26 | 9 | 73 | 1 | 4 | 0 | 126 |
+| 360d | 2025-11-27 | 11 | 90 | 1 | 7 | 0 | 174 |
+| last720d | 2024-12-02 | 27 | 141 | 1 | 23 | 0 | 593 |
 
 ## Release assets
 
@@ -70,7 +70,7 @@ Total: **21,826** lines of code across **148** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **12** distros on [repology.org](https://repology.org/project/gomi). **1** are ✅ on the latest upstream release, **10** are ⚠️ on an older version.
+Reported by **12** distros on [repology.org](https://repology.org/project/gomi). **2** are ✅ on the latest upstream release, **9** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -86,4 +86,4 @@ Install metadata for gomi lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261121.yml` · 2026-11-21T06:59:22Z._
+_Snapshot: `data/card/261122.yml` · 2026-11-22T06:46:45Z._
