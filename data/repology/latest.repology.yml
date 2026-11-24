@@ -2,9 +2,9 @@
   srcname: gomi
   binname: gomi
   visiblename: gomi
-  version: 1.10.1
-  origversion: 1.10.1-1
-  status: outdated
+  version: 1.11.0
+  origversion: 1.11.0-1
+  status: newest
   summary: Rm alternative written in Go
   maintainers:
     - carlosal1015@aur
@@ -14,9 +14,9 @@
   srcname: gomi-bin
   binname: gomi-bin
   visiblename: gomi-bin
-  version: 1.10.1
-  origversion: 1.10.1-1
-  status: outdated
+  version: 1.11.0
+  origversion: 1.11.0-1
+  status: newest
   summary: Rm alternative written in Go
   maintainers:
     - carlosal1015@aur
@@ -26,9 +26,9 @@
   srcname: sysutils/gomi
   binname: gomi
   visiblename: sysutils/gomi
-  version: 1.10.1
-  origversion: 1.10.1_1
-  status: outdated
+  version: 1.11.0
+  origversion: null
+  status: newest
   summary: Unix rm(1) command that can restore deleted files
   maintainers:
     - eduardo@freebsd.org
