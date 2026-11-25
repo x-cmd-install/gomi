@@ -48,12 +48,12 @@ Total: **22,502** lines of code across **151** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 6 | 28 | 1 | 1 | 0 | 17 |
-| last60d | 2026-09-25 | 8 | 70 | 1 | 2 | 0 | 121 |
-| 90d | 2026-08-26 | 8 | 70 | 1 | 2 | 0 | 123 |
-| last180d | 2026-05-28 | 9 | 73 | 1 | 4 | 0 | 126 |
-| 360d | 2025-11-29 | 11 | 90 | 1 | 7 | 0 | 174 |
-| last720d | 2024-12-04 | 27 | 141 | 1 | 23 | 0 | 593 |
+| 30d | 2026-10-26 | 3 | 11 | 1 | 0 | 0 | 17 |
+| last60d | 2026-09-26 | 8 | 70 | 1 | 2 | 0 | 121 |
+| 90d | 2026-08-27 | 8 | 70 | 1 | 2 | 0 | 123 |
+| last180d | 2026-05-29 | 9 | 73 | 1 | 4 | 0 | 126 |
+| 360d | 2025-11-30 | 11 | 90 | 1 | 7 | 0 | 174 |
+| last720d | 2024-12-05 | 27 | 141 | 1 | 23 | 0 | 593 |
 
 ## Release assets
 
@@ -68,15 +68,6 @@ Total: **22,502** lines of code across **151** files in the top 5 languages.
 | [gomi_Windows_arm64.zip](https://github.com/babarot/gomi/releases/download/v1.11.0/gomi_Windows_arm64.zip) | 5.0 MiB | `native/win/arm64` |
 | [gomi_Windows_x86_64.zip](https://github.com/babarot/gomi/releases/download/v1.11.0/gomi_Windows_x86_64.zip) | 5.7 MiB | `native/win/x64` |
 
-## Distribution status
-
-Reported by **12** distros on [repology.org](https://repology.org/project/gomi). **5** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `1.11.0` | ✅ latest |
-| Nix unstable | `1.10.1` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for gomi lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `gomi` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -86,4 +77,4 @@ Install metadata for gomi lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T09:58:18Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T08:22:39Z._
